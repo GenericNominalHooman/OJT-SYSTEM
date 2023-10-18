@@ -1,0 +1,97 @@
+<mxfile host="Electron" modified="2023-10-18T13:23:59.827Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="jG3EYeKrs0rbTVzLE68P" version="21.6.8" type="device">
+  <diagram name="Page-1" id="RmiC0LnNtBsDecarxAC6">
+    <mxGraphModel dx="3558" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="geQaFq1kUyZr5R1xTq72-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="80" width="560" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="kULeiULbNWjM8K2r1JRf-2" value="OJT Management System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="110" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kULeiULbNWjM8K2r1JRf-3" value="Pelajar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kULeiULbNWjM8K2r1JRf-4" value="Pensyarah&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHZ7oDUyYZnDBMcmyV8b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="YHZ7oDUyYZnDBMcmyV8b-1" target="kULeiULbNWjM8K2r1JRf-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-175" y="380" />
+              <mxPoint x="-95" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHZ7oDUyYZnDBMcmyV8b-1" value="Pensyarah&amp;nbsp;Penyelia Organisasi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-190" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="geQaFq1kUyZr5R1xTq72-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="geQaFq1kUyZr5R1xTq72-1" target="kULeiULbNWjM8K2r1JRf-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-315" y="380" />
+              <mxPoint x="-95" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geQaFq1kUyZr5R1xTq72-1" value="Penyelia Organisasi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-330" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="geQaFq1kUyZr5R1xTq72-2" value="Industri" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="540" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="geQaFq1kUyZr5R1xTq72-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="geQaFq1kUyZr5R1xTq72-3" target="kULeiULbNWjM8K2r1JRf-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-35" y="380" />
+              <mxPoint x="-95" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geQaFq1kUyZr5R1xTq72-3" value="Pensyarah Penilai" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="geQaFq1kUyZr5R1xTq72-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="geQaFq1kUyZr5R1xTq72-4" target="kULeiULbNWjM8K2r1JRf-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="85" y="380" />
+              <mxPoint x="-95" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geQaFq1kUyZr5R1xTq72-4" value="Pensyarah Penilai OJT" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="geQaFq1kUyZr5R1xTq72-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="geQaFq1kUyZr5R1xTq72-5" target="geQaFq1kUyZr5R1xTq72-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="geQaFq1kUyZr5R1xTq72-5" value="Ketua Unit Perhubungan Dan Latihan Industri" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="670" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="geQaFq1kUyZr5R1xTq72-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="geQaFq1kUyZr5R1xTq72-12" target="kULeiULbNWjM8K2r1JRf-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-95" y="120" />
+              <mxPoint x="-15" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geQaFq1kUyZr5R1xTq72-12" value="Pelajar Sedang OJT" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="geQaFq1kUyZr5R1xTq72-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="geQaFq1kUyZr5R1xTq72-13" target="kULeiULbNWjM8K2r1JRf-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="65" y="120" />
+              <mxPoint x="-15" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geQaFq1kUyZr5R1xTq72-13" value="Pelajar Belum OJT" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
